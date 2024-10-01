@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhiRudraKaushalya
+- 👋 Hi, I’m Abhishek Anand
 - 👀 I’m interested in Quantum Computing
 - 🌱 I’m currently learning Data Science
 - 😄 Pronouns: He/Him
